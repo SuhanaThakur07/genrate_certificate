@@ -3,8 +3,7 @@
 Project: Certificate Generator and College Club/Event Management System
 Stack: Django, Django REST Framework, JWT, Cloudinary, SMTP (Gmail)
 
-> Note: Class names and attributes below are modelled from the project description.
-> Rename them to match the actual `models.py` before the viva.
+
 
 ---
 
